@@ -61,7 +61,7 @@ application makes HTTPS requests to the Meetingz server’s API end
 point.
 
 You can retrieve your Meetingz API parameters (API endpoint and
-shared secret) registering on [my.meetingz.ir](https:://my.meetingz.ir)
+shared secret) registering on [my.meetingz.ir](https://my.meetingz.ir)
 
 Here’s a sample return
 
