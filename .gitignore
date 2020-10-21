@@ -1,0 +1,15 @@
+*.exe
+*.pdb
+*.mdf
+*.ldf
+*.doc
+*.docx
+.localhistory/
+.vs/
+.idea/
+
+*/bin/*
+*/obj/*
+
+
+!**/*.frx
